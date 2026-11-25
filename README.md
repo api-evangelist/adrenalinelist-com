@@ -84,14 +84,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adrenalinelist Com Authentication](https://apis.io/security/adrenalinelist-com/adrenalinelist-com-authentication/)
-- [Adrenalinelist Com Domain Security](https://apis.io/security/adrenalinelist-com/adrenalinelist-com-domain-security/)
+- [Adrenaline List Authentication](https://apis.io/security/adrenalinelist-com/adrenalinelist-com-authentication/)
+- [Adrenaline List Domain Security](https://apis.io/security/adrenalinelist-com/adrenalinelist-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adrenalinelist Com Scopes](https://apis.io/scopes/adrenalinelist-com/adrenalinelist-com-scopes/)
+- [Adrenaline List Scopes](https://apis.io/scopes/adrenalinelist-com/adrenalinelist-com-scopes/)
 
 ## Where to find this API
 
@@ -110,7 +110,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 24.6** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 24.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -119,16 +119,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 45.2 |
-| Access clarity | 44.7 |
+| Access clarity | 48.9 |
 
-**Agent readiness 6.7** — agent-aware
+**Agent readiness 3.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -147,8 +147,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.6** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adrenalinelist-com/](https://apis.io/providers/adrenalinelist-com/).
 
